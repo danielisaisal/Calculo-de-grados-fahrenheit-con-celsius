@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\Aplicaciones ISSC\Examen_Final\bin\Debug\Examen_Final.exe.config
+C:\Users\danie\source\repos\Aplicaciones ISSC\Examen_Final\bin\Debug\Examen_Final.exe
+C:\Users\danie\source\repos\Aplicaciones ISSC\Examen_Final\bin\Debug\Examen_Final.pdb
+C:\Users\danie\source\repos\Aplicaciones ISSC\Examen_Final\obj\Debug\Examen_Final.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Aplicaciones ISSC\Examen_Final\obj\Debug\Examen_Final.exe
+C:\Users\danie\source\repos\Aplicaciones ISSC\Examen_Final\obj\Debug\Examen_Final.pdb
